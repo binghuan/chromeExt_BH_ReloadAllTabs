@@ -1,5 +1,11 @@
 # Reload All Tabs - Chrome Extension
 
+## Feature overview
+
+![chromeExt_BH_ReloadAllTabs — feature flow diagram](README-assets/project-preview.svg)
+
+Conceptual feature flow based on this repository; this is a documentation diagram, not an application screenshot.
+
 <img src="Icon.png" width="auto" height="240px"><br/>
 
 A simple and efficient Chrome extension that allows you to reload all open tabs with a single click.
